@@ -1,6 +1,12 @@
 ## Figma
 https://www.figma.com/file/H0vyleuLDblwuhbOCdy4iC/fem-react-storybook-(Copy)?node-id=7416%3A72
 
+## Github Class
+https://github.com/emmabostian/fem-design-systems
+
+## Class Notes
+https://fem-design-systems.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
