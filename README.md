@@ -7,6 +7,9 @@ https://github.com/emmabostian/fem-design-systems
 ## Class Notes
 https://fem-design-systems.netlify.app/
 
+## Code Sandbox Animation Example
+https://codesandbox.io/s/fem-react-spring-exercises-forked-q7t5c?file=/src/FadeIn.js
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
