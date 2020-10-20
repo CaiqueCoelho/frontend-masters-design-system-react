@@ -10,6 +10,12 @@ https://fem-design-systems.netlify.app/
 ## Code Sandbox Animation Example
 https://codesandbox.io/s/fem-react-spring-exercises-forked-q7t5c?file=/src/FadeIn.js
 
+## Install and Setup Storybook
+npx -p @storybook/cli sb init
+npm i @storybook/preset-create-react-app actions @storybook/addon-docs
+npm i --save-dev @storybook/react
+npm i @storybook/addon-backgrounds @storybook/addon-contexts
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
