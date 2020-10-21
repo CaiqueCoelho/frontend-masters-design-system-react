@@ -15,6 +15,8 @@ npx -p @storybook/cli sb init
 npm i @storybook/preset-create-react-app actions @storybook/addon-docs
 npm i --save-dev @storybook/react
 npm i @storybook/addon-backgrounds @storybook/addon-contexts
+npm i @storybook/addon-knobs
+npm i @storybook/addon-a11y
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

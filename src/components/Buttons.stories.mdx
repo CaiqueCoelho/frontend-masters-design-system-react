@@ -1,5 +1,6 @@
 import { Meta, Story, Preview } from "@storybook/addon-docs/blocks";
 import { PrimaryButton, SecondaryButton, TertiaryButton } from "./Buttons";
+import { withKnobs, boolean } from "@storybook/addon-knobs"
 import { action } from "@storybook/addon-actions";
 
 <Meta title="Design System|Buttons" component={PrimaryButton} />
@@ -18,7 +19,7 @@ Primary buttons are used as a call to action and indicate the most important act
 
 <Preview withToolbar>
   <Story name="primary">
-    <PrimaryButton onClick={action('button-click')}>Hello world</PrimaryButton>
+    <PrimaryButton disabled={boolean("Disabled", false)} onClick={action('button-click')}>Hello world</PrimaryButton>
   </Story>
 </Preview>
 
